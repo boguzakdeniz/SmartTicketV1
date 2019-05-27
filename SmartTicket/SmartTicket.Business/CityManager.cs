@@ -8,6 +8,6 @@ using System.Threading.Tasks;
 namespace SmartTicket.Business
 {
     public class CityManager:ManagerBase<City>
-    {
+    {//aa
     }
 }
